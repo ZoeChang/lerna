@@ -1,6 +1,6 @@
 {
-  "name": "module-1",
-  "version": "0.0.1",
+  "name": "foo",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
-    "react-select": "^2.4.3"
-  },
-  "gitHead": "41b5d417f02e97768263347ef36c87a98ebb22fa"
+    "react-table": "^6.10.0"
+  }
 }
